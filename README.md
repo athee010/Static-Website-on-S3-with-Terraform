@@ -4,6 +4,7 @@ This project demonstrates how to create an S3 bucket and set up a static website
 
 ## Prerequisites
 AWS Account
+
 Terraform Installed
 
 ## Project Steps
